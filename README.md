@@ -1,0 +1,2 @@
+# ENTRENCHED-WW1-Kojo-Hub
+Script for ENTRENCHED WW1
